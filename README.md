@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AthArvA-188
 - 👀 I’m interested in coding and learning programming languages 
-- 🌱 I’m currently learning python language 
+- 🌱 I’m currently learning python and java language 
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me - batharva191@gmail.com
 
