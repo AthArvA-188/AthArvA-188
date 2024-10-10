@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AthArvA-188
-- 👀 I’m interested in coding and learning programming languages 
-- 🌱 I’m currently learning python and java language 
-- 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me - batharva191@gmail.com
+- Hi, I’m @AthArvA-188
+- USC Trojan
+- Experience in Java and Python 
+- I’m looking for internships 
+- How to reach me - batharva191@gmail.com
 
 <!---
 AthArvA-188/AthArvA-188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
