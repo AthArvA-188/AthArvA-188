@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Hi, I'm Atharva! <br/><a href="https://github.com/AthArvA-188">Programmer</a>, <a href="https://www.linkedin.com/in/atharva-bhide-">Master of Computer Science </a></h1>
 
 <h2>👨‍💻 Software Development / AI-ML Projects:</h2>
+<h2><a href="https://atharvabhideportfolio.vercel.app/">My Portfolio</a></h2>
 
 - <b>Sealing the Backdoor</b>
   - [Unlearning Adversarial Triggers in Diffusion Models](https://github.com/AthArvA-188/Sealing-the-Backdoor-Unlearning-Adversarial-Triggers-in-Diffusion-Models)
